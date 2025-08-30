@@ -9,3 +9,4 @@ Dashboard aşağıdakı analizləri təqdim edir:
 - Saatlıq satış gəlirləri
 
 📂 Fayl: `VELOSHOP Azerbaijan.pbix`
+Əlavə olaraq PNG versiyası da mövcuddur.
